@@ -11,3 +11,5 @@ This docker-compose lets you have a Big Data personal local environment to devel
 - Hive as a Warehouse based on HDFS and Queriable layer
 - PySpark notebook for the processing layer
 - Apache Hue for Hadoop User Experience (Hadoop UI) so you can query the Hive Warehouse in case is needed
+
+  (dockercompose.jpg)[https://github.com/Sebasc322/Docker-For-Data-Science/blob/main/Big-Data/dockercompose.jpg]
